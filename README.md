@@ -1,13 +1,17 @@
 # Jogo da Velha
 
+
 Projeto desenvolvido a fim de estudos, meu objetivo foi criar um site esteticamente bonito com um jogo da velha que indica o resultado
 
+
 # Tecnologias utilizadas
+
 
  - ReactJS
  - CSS
  - HTML
  - JavaScript
+
 
 # Imagens
 ![image](https://user-images.githubusercontent.com/98918812/172065369-da1ee3d6-e23e-439e-9abb-926b6fc08b2d.png)
